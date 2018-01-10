@@ -96,3 +96,4 @@ C:\Users\CEPUM\Documents\Curso MVC\C-Market\C-Market\bin\es\Microsoft.Owin.Secur
 C:\Users\CEPUM\Documents\Curso MVC\C-Market\C-Market\obj\Debug\C-Market.csproj.CoreCompileInputs.cache
 C:\Users\CEPUM\Documents\Curso MVC\C-Market\C-Market\obj\Debug\C-Market.dll
 C:\Users\CEPUM\Documents\Curso MVC\C-Market\C-Market\obj\Debug\C-Market.pdb
+C:\Users\CEPUM\Documents\Curso MVC\C-Market\C-Market\obj\Debug\C-Market.csprojResolveAssemblyReference.cache
